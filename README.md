@@ -1,3 +1,5 @@
+<br clear="both">
+
 <h1 align="left">Hi there, I'm Luiz Felipe Alves Lopes,<br>front end developer (full) and Full Stack jr,<br>Data Science student.</h1>
 
 ###
@@ -39,4 +41,3 @@
 </div>
 
 ###
-
