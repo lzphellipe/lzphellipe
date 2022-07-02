@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Luiz Felipe Alves Lopes,<br>front end developer (FULL) and full stack jr,<br>data science student.</h1>
+<h1 align="left">Hi there, I'm Luiz Felipe Alves Lopes,<br>front end developer (full) and Full Stack jr,<br>Data Science student.</h1>
 
 ###
 
@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/lzphellipe/lzphellipe/blob/output/snake.svg" alt="Snakeanimation" />
+<img href="https://raw.githubusercontent.com/lzphellipe/lzphellipe/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -39,4 +39,4 @@
 </div>
 
 ###
-Profile Readme Generator
+
