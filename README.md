@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Luiz Felipe Alves Lopes,<br>front end developer (FULL) and full stack jr,<br>data science student.</h1>
+<h1 align="left">Hi there, I'm Luiz Felipe Alves Lopes,<br>front end developer (full) and full stack jr,<br>data science student.</h1>
 
 ###
 
